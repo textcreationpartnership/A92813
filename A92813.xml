@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second intelligence from Reading. Dated from His Excellency his quarters before Reading, April 24.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92813</idno><idno type="EEBO-CITATION">50290041</idno>
+  <idno type="VID">155845</idno>
+  <idno type="EEBO-PROQUEST">2240877851</idno>
+  
+            <idno type="STC">Wing S2281</idno>
+            <idno type="STC">Thomason E99_19</idno>
+            <idno type="STC">ESTC P1069</idno>
+            <idno type="OCLC">50290041</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155845)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E99[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second intelligence from Reading. Dated from His Excellency his quarters before Reading, April 24.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Gellibrand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>April 25, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Reading (Berkshire) --  Siege, 1643.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155845:1"/>
+            <pb facs="tcp:155845:1"/>
+            <p>The second INTELLIGENCE FROM READING. Dated from His Excellency HIS QUARTERS Before READING, <hi>April</hi> 24.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Samuel Gellibrand. April</hi> 25. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="news">
+            <pb facs="tcp:155845:2"/>
+            <pb n="3" facs="tcp:155845:2"/>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>SInce my last of the eighteenth of this in<g ref="char:EOLhyphen"/>stant, divers things have faln out; the most remarkable in their nature, and the most certain in the truth, I shall acquaint you with. From other parts that which we under<g ref="char:EOLhyphen"/>stand, is this, That the Close at <hi>Litchfield</hi> is sur<g ref="char:EOLhyphen"/>rendred to Prince <hi>Rupert,</hi> but upon as good terms as could be expected; their Powder was spent, which made them uncapable of resist<g ref="char:EOLhyphen"/>ance; and after much mischief done to their enemies, many slain, and more hurt, they had liberty to march away with Bag and Baggage; from whence we and our friends with us may conclude the hazard and difficulty of Sieges. Sir <hi>William Waller</hi> lies behinde Prince <hi>Maurice,</hi> ready to wait upon him as he moves this way: the last we heard of them, was, That Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Waller</hi> was at <hi>Tewksbury,</hi> the Prince at <hi>Sudeley;</hi> but now we are informed Prince <hi>Mau<g ref="char:EOLhyphen"/>rice</hi> is come to <hi>Oxford,</hi> and our Quarters are in<g ref="char:EOLhyphen"/>tended. As for our own Affairs, they stand thus: As for the Town, we understand the state of it to be full of wants, both of Pro<g ref="char:EOLhyphen"/>vision
+<pb n="4" facs="tcp:155845:3"/>and Ammunition; the Welch-men have already feasted with a horse or two, and those lean ones, in regard that horse-meat hath much failed of late, which occasioned an endeavour of the Horse to go away on Saturday night; but they were stopt by the Foot: So likewise for their Ammunition, they want Powder, but Bullets more, shooting very seldome, and very strange Shot, as stones, and such like. The Governour is by all sorts confessed to be wounded; some say, shot in the neck, others, bruised by the fall of a stone from a house; but he is so ill, that he executes not his place, which causes much confusion and distraction among them. Some of the Town have come out, and informed us to this purpose, and that they had an intent to leave the Town; which its like enough they would have done, had it not been as hazardous as their stay, in regard of our Quarters. We took prisoner on Sunday mor<g ref="char:EOLhyphen"/>ning a Servant of Sir <hi>Lewis Dyves,</hi> who was sent to give the Town notice of Ammunition com<g ref="char:EOLhyphen"/>ing to them; he swam over the River, and back again, but was intercepted, and the Supply was prevented by some Troops of Horse of ours, and Colonell <hi>Barclayes</hi> Regiment, and 200 of Colonell <hi>Holbornes,</hi> who lay in the way about <hi>Cavesham:</hi> We likewise took a fellow equally guilty of folly and knavery; he was once of the Lord <hi>Roberts</hi> his Regiment, and ran away
+<pb n="5" facs="tcp:155845:3"/>to the enemy, and was now hired to blow up our Magazine, as himself confesses, but knew no way, as he sayes, but to throw a light Match into a Barrell, supposing he should have found one open; he was to have had five pound for his pains; but now instead of that a halter. Yesterday hearing that the King was advancing this way to the relief of the Town with what Force he could make up, which is not much in the absence of his Parties: We sent a strong Partie of Horse and Dragooners, under the Command of Colonell <hi>Middleton,</hi> who at a place called Dorchester, 7 or 8 miles from <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> furprized the Kings Regiment of Foot, now again under the Command of Colonell <hi>Will. Vavasor,</hi> that man of Honour, by whose losse if we can gain so much wisdom as to trust no more of them upon their lost reputation, we shall make a good Bargain; who, though he was not there present, his Captain Lievtenant was taken, the Standard again endangered, about 100 horse taken, and 60 or thereabouts (some say more) slain, and about 50 Prisoners; and Cap<g ref="char:EOLhyphen"/>tain <hi>Watson</hi> the Kings Gentleman Harbinger was taken providing for the Kings march that way; which it may be this defeat will a little retard, if not disappoint; which yet we shall provide for: The advantage could not with safety be pursued, in regard of their whole Bo<g ref="char:EOLhyphen"/>dy was but two miles distant: But we are thank<g ref="char:EOLhyphen"/>full
+<pb n="6" facs="tcp:155845:4"/>for this, &amp; hope ere long to afford you more and better news. We received your provisions, which were very welcome; but there must be speciall care taken in laying a setled way for Money, which must hold us together. You think that victuals should stop mens mouths, but that alone will not serve the turn. If God prosper us in our endeavour against this Town, I hope the reputation of it will draw in both your good opinion and supplyes. Howsoever things fall out, timely care and provision pre<g ref="char:EOLhyphen"/>vents distractions and discouragements. We have some little addition of Dragoons coming from <hi>Bedfordshire,</hi> and are in Expectation of your gallant Sheriff, who hath a just and great interest in our esteem here. You have heard many reports, some slanders of my Lord <hi>Grayes</hi> forces, which I doubt not, but after their time allowed for their entrance, will shew themselves good men, as they look to be; they had the accession of a Regiment on Saturday. Sir <hi>John Meldrum,</hi> that diligent and adventerous Colo<g ref="char:EOLhyphen"/>nell is sent to them with his Regiment, who we doubt not by his example and encouragement will do much good. It is something a hot ser<g ref="char:EOLhyphen"/>vice for young Souldiers, but custome will make it easie. I will detain you no longer; the next news I write, will be of moment; for doubtlesse we shall do something upon the
+<pb n="7" facs="tcp:155845:4"/>Town, or the King upon us, which we wonder He hath not done all this while.</p>
+            <p>The Lord direct and prosper us, and guide our concerned friends to the understanding, and acting that which may be most for our and their advantage. Farewell.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
